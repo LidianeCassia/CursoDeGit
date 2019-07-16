@@ -1,0 +1,5 @@
+Git add . -> adiciona tudo que está no diretório atual
+Git commit -m "mensagem do commit" -> comita os arquivos e escreve a mensagem sem a necessidade de abrir com um editor
+git log -> mostra todos os arquivos que foram comitados, do ultimo para o primeiro
+push -> envia todas as alteraçãoes de uma branch para o repositório remoto
+git diff HEAD~1 -> compara dois commits, mostra as alterações. 
