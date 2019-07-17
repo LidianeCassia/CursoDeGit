@@ -1,0 +1,11 @@
+Arquivo criado para usar os seguintes comandos no exercicio:
+
+git add .
+git log
+git status
+git commit
+
+
+E quem for usar o código:
+git clone http:// endereco...
+git pull
